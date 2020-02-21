@@ -1,4 +1,4 @@
-#Proyecto armado para clases de Javascript.
+# Proyecto armado para clases de Javascript.
 
 Crear dentro de config/ el archivo env.js para configurar las credenciales de la base de datos.
 
